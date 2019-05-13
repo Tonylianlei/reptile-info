@@ -1,0 +1,7 @@
+server:
+  port: 8000
+spring:
+  datasource:
+    password: 123456
+    username: root
+    url: jdbc:mysql://39.105.8.143:3306/reptile_info?noAccessToProcedureBodies=true&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&transformedBitIsBoolean=true
